@@ -1,0 +1,10 @@
+{
+  "josena": [
+    {
+      "update_to": "true",
+      "class": "Class A",
+      "join_link": "https://example.com/join",
+      "password": "pass123"
+    }
+  ]
+}
