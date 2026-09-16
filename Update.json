@@ -1,7 +1,7 @@
 {
   "josena": [
     {
-      "update_to": "true",
+      "update_to": "false",
       "class": "Class A",
       "join_link": "https://example.com/join",
       "password": "pass123"
